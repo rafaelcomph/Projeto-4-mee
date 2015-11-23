@@ -1,6 +1,6 @@
 
-#define trigPin 12
-#define echoPin 13
+#define trigPin 13
+#define echoPin 12
 #define pinBotao 7
 
 void setup() {
